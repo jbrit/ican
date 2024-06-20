@@ -1,0 +1,8 @@
+[
+  {
+    "file": "example.circom",
+    "template_inputs": ["a_b_product"],
+    "signal_inputs": ["a", "b"],
+    "description": "an example circuit to test a user knows two values when multiplied produce `a_b_product`"
+  }
+]
